@@ -8,6 +8,9 @@ Develop a machine learning techniques to identify which early learning programme
 ```
 https://zindi.africa/competitions/datadrive2030-early-learning-predictors-challenge
 ```
+
+* Main code is written in ```my_notebook.ipynb``` file
+
 ## Data Analysis
 * Performed extensive data analysis and data preprocessing to understand the data.
 * Performed feature engineering to extract new features.
